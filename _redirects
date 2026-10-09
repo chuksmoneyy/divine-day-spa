@@ -1,0 +1,8 @@
+# Old WordPress page addresses go to the right part of the new site
+/about-us/*  /#about  301
+/about-us    /#about  301
+/contact-us*  /#visit  301
+/spa-services-in-kanata-waxing-nails-massage-more-divine-day-spa/indian-head-massage-services*  /#massage  301
+/spa-services-in-kanata-waxing-nails-massage-more-divine-day-spa/*  /#services  301
+/spa-services-in-kanata-waxing-nails-massage-more-divine-day-spa  /#services  301
+/services/*  /#services  301
